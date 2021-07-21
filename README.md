@@ -4,7 +4,10 @@ A simple React Native app using the Nanonets OCR API.
 
 Enter the URL of an image of a USA Driver's License and click the button to extract the data on the card.
 
-> Add a `.env` file with the variables `API_KEY` and `MODEL_ID` from https://nanonets.com.
+> NOTE:
+>
+> -   Add a `.env` file with the variables `API_KEY` and `MODEL_ID` from https://nanonets.com.
+> -   The [`nanonets-ocr` package](https://github.com/HarshKapadia2/nanonets-ocr) has also been used. (Do not use in production.)
 
 ## Screenshots
 
